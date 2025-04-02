@@ -1,6 +1,6 @@
 # openSNP
 
-[![Build Status](https://github.com/openSNP/snpr/actions/workflows/build.yml/badge.svg)](https://github.com/openSNP/snpr/actions/workflows/build.yml)  [![Join the chat at https://gitter.im/openSNP/snpr](https://badges.gitter.im/openSNP/snpr.svg)](https://gitter.im/openSNP/snpr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://github.com/ericjohnston/snpr/actions/workflows/build.yml/badge.svg)](https://github.com/ericjohnston/snpr/actions/workflows/build.yml)  [![Join the chat at https://gitter.im/openSNP/snpr](https://badges.gitter.im/openSNP/snpr.svg)](https://gitter.im/openSNP/snpr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Hello! [openSNP.org](https://opensnp.org) is a repository to which users can upload their SNP-sets (and exome-VCFs) from
 23andme, deCODEme, FamilyTreeDNA, AncestryDNA and IYG-format (for participants
@@ -12,14 +12,14 @@ according to how many results could be gathered for SNPedia, PLoS and Mendeley
 on SNPs and Phenotypes.
 
 ## Installing openSNP
-Please see [INSTALL.md](https://github.com/openSNP/snpr/blob/master/INSTALL.md) for more detailed instructions on how to run and setup openSNP.
+Please see [INSTALL.md](https://github.com/ericjohnston/snpr/blob/master/INSTALL.md) for more detailed instructions on how to run and setup openSNP.
 
 ## Contributing to openSNP
-Thanks for your interest in helping us out! You are awesome! Please see [CONTRIBUTING.md](https://github.com/openSNP/snpr/blob/master/CONTRIBUTING.md) for more detailed instructions on how to contribute. We also [have a ROADMAP.md](https://github.com/openSNP/snpr/blob/master/ROADMAP.md), containing our idea of where the project should head.
+Thanks for your interest in helping us out! You are awesome! Please see [CONTRIBUTING.md](https://github.com/ericjohnston/snpr/blob/master/CONTRIBUTING.md) for more detailed instructions on how to contribute. We also [have a ROADMAP.md](https://github.com/ericjohnston/snpr/blob/master/ROADMAP.md), containing our idea of where the project should head.
 
-The project has a [Code of Conduct](https://github.com/openSNP/snpr/blob/master/CODE_OF_CONDUCT.md) in order to make this a safe and inclusive space for everyone.
+The project has a [Code of Conduct](https://github.com/ericjohnston/snpr/blob/master/CODE_OF_CONDUCT.md) in order to make this a safe and inclusive space for everyone.
 
-Thanks go to everyone who has contributed so far. May you be celebrated, [inside our humans.txt](https://github.com/openSNP/snpr/blob/master/public/humans.txt) and outside of it!
+Thanks go to everyone who has contributed so far. May you be celebrated, [inside our humans.txt](https://github.com/ericjohnston/snpr/blob/master/public/humans.txt) and outside of it!
 
 ## Getting in contact
 You can always open an issue for specific problems, or send a mail to snpr-development@googlegroups.com if you want to discuss something or if you have any questions or need help with something. There's also info@opensnp.org if something broke on the site itself.

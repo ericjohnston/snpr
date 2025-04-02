@@ -2,7 +2,7 @@
 
 Hello and thanks so much for your interest in running our code! And maybe even
 contributing to the project. For more details on this see
-[CONTRIBUTING.md](https://github.com/openSNP/snpr/blob/master/CONTRIBUTING.md)
+[CONTRIBUTING.md](https://github.com/ericjohnston/snpr/blob/master/CONTRIBUTING.md)
 
 ## Table of Contents
 - [Installing openSNP](#installing-opensnp)
@@ -179,4 +179,4 @@ where we celebrate all of you.
 
 * **I’m getting a weird error!**
 
-    Please open a new request on GitHub [issue tracker](https://github.com/openSNP/snpr/issues).
+    Please open a new request on GitHub [issue tracker](https://github.com/ericjohnston/snpr/issues).
